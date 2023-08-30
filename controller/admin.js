@@ -1,5 +1,5 @@
 const {Expense} = require('../dataB');
-const {signup} = require('../dataB');
+const {signup} = require('../dataB')
 const jwt = require('jsonwebtoken');
 const bcrypt = require('bcrypt');
 
